@@ -1,6 +1,6 @@
 # SonarScannerV2
 
-This code is for the video https://youtu.be/iTtid9Hw2sM
+This code is for the video https://youtu.be/Evao3XUUAOY
 The board is not publically available but you can use any Esp32 S2
 the pins for the ADC data inputs are 1 to 8. 9 and 10 are used later to read back CS and clk since RMT bypasses the gpio matrix...
 CS and clk output pins are defined in the code.
